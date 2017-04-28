@@ -1,0 +1,2 @@
+# VerifyInformationDockingPlatform
+验证信息对接平台
